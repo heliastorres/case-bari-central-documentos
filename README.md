@@ -12,7 +12,6 @@ da imagem, lê (OCR), extrai os dados, aplica as regras de negócio e aponta pen
 | `prototipo-case-bari/` | Aplicação React + Vite + TypeScript (roda 100% no navegador, sem backend) |
 | `documentos-teste/` | Documentos sintéticos para testar (aprovados, revisão e reprovados) + gerador em PowerShell |
 | `docs/` | Pré-requisitos do protótipo (funções F01–F14) e prints |
-| `.opencode/skills/case-bari/` | Skill com o contexto do case: escopo, 7 documentos, regras de negócio e fluxo To-Be |
 
 ## Rodar o protótipo
 
