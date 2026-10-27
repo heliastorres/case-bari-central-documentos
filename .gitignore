@@ -16,3 +16,6 @@ Thumbs.db
 # Temporários
 .opencode/skills/*/cache/
 .tmp/
+
+# Conteudo interno que nao sobe para o repositorio remoto
+.opencode/
